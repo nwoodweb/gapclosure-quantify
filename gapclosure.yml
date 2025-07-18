@@ -1,0 +1,11 @@
+name: gapclosure
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - joblib
+  - matplotlib
+  - scikit-image
+  - numpy
+  - pandas
+prefix: /home/woodn/miniconda3/envs/gapclosure
