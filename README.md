@@ -87,8 +87,8 @@ Our U-Net has achieved significant performance boosts, with the following metric
 + **Train-Loss**: 0.0262
 + **Validation-Loss**: 0.0470
 + **IoU**:  0.9706 
-+ **HD95**: 8.531 $\pm$ 2.386
-+ **ASSD**: 2.311 $\pm$ 1.401
++ **HD95**: 8.531 $\pm$ 2.386 pixels (Mean $\pm$ SD)
++ **ASSD**: 2.311 $\pm$ 1.401 pixels (Mean $\pm$ SD)
 
 U-Net models can be found on [Hugging Face](https://huggingface.co/nwoodweb/gapclosure-quantify-unet)
 
